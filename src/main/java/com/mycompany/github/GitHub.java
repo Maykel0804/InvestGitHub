@@ -1,0 +1,13 @@
+
+package com.mycompany.github;
+
+/**
+ *
+ * @author mayke
+ */
+public class GitHub {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
